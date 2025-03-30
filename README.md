@@ -138,7 +138,7 @@ HALT              // Stop execution
 ---
 
 ## Contributors
-- **Your Name** - Bolisetty Thulasi Vignan
+Bolisetty Thulasi Vignan
 
 ---
 
